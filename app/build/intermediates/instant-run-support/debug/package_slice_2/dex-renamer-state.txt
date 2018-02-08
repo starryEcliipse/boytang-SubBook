@@ -1,0 +1,4 @@
+#Thu Feb 08 11:11:34 MST 2018
+base.0=/Users/ComputerAccount/Documents/CMPUT301/A1/boytangSubBook/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
